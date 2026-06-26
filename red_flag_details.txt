@@ -1,0 +1,1716 @@
+====================================================
+          DETAILED RED FLAG AND PROCESS LOGS        
+  Mean Start Difference: 0.046088s | Mean End Difference: 0.065203s
+  Dynamic Calculated Threshold (Max Mean * 2): 0.130405s
+====================================================
+
+PERFECT: 00JS
+PERFECT: 08XP
+PERFECT: 0ALV
+PERFECT: 0AlU
+RED FLAG: 0I2c -> Word count mismatch! Manual text items: 6, MFA items: 1
+PERFECT: 0KkN
+PERFECT: 0Nwr
+RED FLAG: 0Pbl -> Word count mismatch! Manual text items: 11, MFA items: 1
+PERFECT: 0QG0
+PERFECT: 0W0k
+RED FLAG: 0ehO -> Manual transcription contains ONLY '#' markers.
+RED FLAG: 0fwK -> Word count mismatch! Manual text items: 3, MFA items: 1
+RED FLAG: 0hE5 -> Word count mismatch! Manual text items: 10, MFA items: 1
+RED FLAG: 0k6h -> Word count mismatch! Manual text items: 4, MFA items: 1
+PERFECT: 0lXq
+RED FLAG: 0nQG -> Word count mismatch! Manual text items: 4, MFA items: 1
+PERFECT: 0nwd
+PERFECT: 0s7j
+RED FLAG: 0s9N -> Word count mismatch! Manual text items: 10, MFA items: 1
+PERFECT: 0sCi
+PERFECT: 0tYU
+PERFECT: 0uFz
+PERFECT: 0xPW
+PERFECT: 11Z5
+RED FLAG: 145q -> Time difference > threshold at word 'BETRAYAL' (Start Diff: 0.0341s, End Diff: 0.1706s)
+PERFECT: 14zF
+RED FLAG: 1As8 -> Time difference > threshold at word 'SOCK' (Start Diff: 0.0266s, End Diff: 0.1747s)
+RED FLAG: 1Cfi -> Word count mismatch! Manual text items: 7, MFA items: 1
+PERFECT: 1Crx
+RED FLAG: 1DKm -> Word count mismatch! Manual text items: 7, MFA items: 1
+RED FLAG: 1EfH -> Word count mismatch! Manual text items: 4, MFA items: 1
+RED FLAG: 1HZC -> Word count mismatch! Manual text items: 6, MFA items: 1
+PERFECT: 1MTy
+PERFECT: 1Pez
+PERFECT: 1Rt8
+PERFECT: 1TIj
+PERFECT: 1VRF
+PERFECT: 1VcB
+PERFECT: 1XYR
+PERFECT: 1XgV
+PERFECT: 1ZjD
+RED FLAG: 1b4x -> Word count mismatch! Manual text items: 9, MFA items: 1
+PERFECT: 1c1q
+PERFECT: 1f2I
+PERFECT: 1hc1
+PERFECT: 1kfb
+PERFECT: 1lsv
+PERFECT: 1uvm
+PERFECT: 1v5E
+PERFECT: 1vdn
+PERFECT: 1xNK
+PERFECT: 23wf
+RED FLAG: 24HE -> Time difference > threshold at word 'HALF' (Start Diff: 0.1075s, End Diff: 0.1378s)
+RED FLAG: 259j -> Word count mismatch! Manual text items: 6, MFA items: 7
+RED FLAG: 2883 -> Word count mismatch! Manual text items: 4, MFA items: 9
+PERFECT: 2COT
+PERFECT: 2D4n
+RED FLAG: 2GJo -> Word count mismatch! Manual text items: 4, MFA items: 1
+RED FLAG: 2HKx -> Word count mismatch! Manual text items: 6, MFA items: 1
+RED FLAG: 2J8X -> Word count mismatch! Manual text items: 5, MFA items: 1
+PERFECT: 2NtG
+PERFECT: 2PK8
+PERFECT: 2PYp
+RED FLAG: 2RZ8 -> Word count mismatch! Manual text items: 4, MFA items: 1
+RED FLAG: 2T5F -> Word count mismatch! Manual text items: 8, MFA items: 1
+PERFECT: 2UCN
+PERFECT: 2UoE
+PERFECT: 2Vg1
+PERFECT: 2WSM
+PERFECT: 2aqo
+PERFECT: 2byt
+PERFECT: 2eNW
+PERFECT: 2jee
+PERFECT: 2vSQ
+PERFECT: 2z1I
+PERFECT: 2zKw
+RED FLAG: 301X -> Word count mismatch! Manual text items: 1, MFA items: 2
+PERFECT: 356c
+PERFECT: 375k
+PERFECT: 37AI
+RED FLAG: 39W8 -> Word count mismatch! Manual text items: 2, MFA items: 1
+PERFECT: 39g2
+PERFECT: 3BE8
+PERFECT: 3Bz8
+RED FLAG: 3C8v -> Word count mismatch! Manual text items: 5, MFA items: 1
+RED FLAG: 3CAp -> Word count mismatch! Manual text items: 11, MFA items: 1
+PERFECT: 3HNc
+PERFECT: 3Iit
+RED FLAG: 3NH7 -> Word count mismatch! Manual text items: 9, MFA items: 1
+PERFECT: 3QnS
+PERFECT: 3RDd
+RED FLAG: 3RRb -> Word count mismatch! Manual text items: 7, MFA items: 1
+PERFECT: 3VFH
+PERFECT: 3cox
+RED FLAG: 3f8U -> Word count mismatch! Manual text items: 7, MFA items: 1
+PERFECT: 3jJI
+RED FLAG: 3jK8 -> Word count mismatch! Manual text items: 11, MFA items: 1
+PERFECT: 3ji0
+PERFECT: 3okZ
+RED FLAG: 3pcd -> Word count mismatch! Manual text items: 6, MFA items: 1
+PERFECT: 3qBX
+PERFECT: 3xkX
+PERFECT: 3xnq
+PERFECT: 40iu
+PERFECT: 44En
+PERFECT: 44aT
+RED FLAG: 45YE -> Time difference > threshold at word 'PROVIDE' (Start Diff: 0.0541s, End Diff: 0.2435s)
+RED FLAG: 4Bka -> Manual transcription contains ONLY '#' markers.
+PERFECT: 4EdD
+PERFECT: 4GS2
+PERFECT: 4HlV
+RED FLAG: 4I5r -> Word count mismatch! Manual text items: 2, MFA items: 1
+PERFECT: 4L88
+PERFECT: 4LPR
+RED FLAG: 4LVi -> Word count mismatch! Manual text items: 3, MFA items: 1
+RED FLAG: 4MsL -> Word count mismatch! Manual text items: 8, MFA items: 1
+PERFECT: 4Myy
+RED FLAG: 4NBF -> Word count mismatch! Manual text items: 2, MFA items: 1
+PERFECT: 4NJN
+RED FLAG: 4PC5 -> Word count mismatch! Manual text items: 12, MFA items: 1
+PERFECT: 4RMC
+PERFECT: 4TPC
+PERFECT: 4bP8
+PERFECT: 4ggX
+PERFECT: 4hTj
+PERFECT: 4nGm
+RED FLAG: 4sU9 -> Word count mismatch! Manual text items: 3, MFA items: 1
+RED FLAG: 4tM7 -> Word count mismatch! Manual text items: 5, MFA items: 1
+PERFECT: 4tUh
+PERFECT: 4ybR
+PERFECT: 53Aj
+RED FLAG: 59Dp -> Time difference > threshold at word 'SLOW' (Start Diff: 0.1364s, End Diff: 0.0848s)
+PERFECT: 59pT
+PERFECT: 5DA4
+PERFECT: 5DG8
+PERFECT: 5E5T
+PERFECT: 5E80
+PERFECT: 5F2p
+RED FLAG: 5FqX -> Word count mismatch! Manual text items: 5, MFA items: 1
+PERFECT: 5GH7
+RED FLAG: 5KsH -> Word count mismatch! Manual text items: 5, MFA items: 1
+PERFECT: 5SRp
+PERFECT: 5Spb
+PERFECT: 5T8E
+PERFECT: 5X2h
+PERFECT: 5XCL
+PERFECT: 5YVk
+PERFECT: 5bmz
+RED FLAG: 5kKk -> Word count mismatch! Manual text items: 4, MFA items: 1
+PERFECT: 5lrk
+PERFECT: 5rvb
+PERFECT: 5s7s
+PERFECT: 5w1n
+RED FLAG: 62NS -> Time difference > threshold at word 'FLAGS' (Start Diff: 0.0711s, End Diff: 0.1846s)
+PERFECT: 641Z
+RED FLAG: 64az -> Time difference > threshold at word 'BOWING' (Start Diff: 0.0607s, End Diff: 0.1818s)
+PERFECT: 64xY
+PERFECT: 68Dv
+RED FLAG: 68ZT -> Word count mismatch! Manual text items: 6, MFA items: 1
+RED FLAG: 6ArD -> Word count mismatch! Manual text items: 5, MFA items: 1
+RED FLAG: 6Bl2 -> Word count mismatch! Manual text items: 8, MFA items: 1
+PERFECT: 6Bmz
+PERFECT: 6Dpy
+PERFECT: 6KrW
+PERFECT: 6L9w
+RED FLAG: 6NR6 -> Word count mismatch! Manual text items: 5, MFA items: 1
+PERFECT: 6RAU
+PERFECT: 6ULa
+PERFECT: 6UZy
+PERFECT: 6WCU
+PERFECT: 6WGs
+RED FLAG: 6Xqd -> Word count mismatch! Manual text items: 3, MFA items: 1
+PERFECT: 6Yq2
+RED FLAG: 6ZNH -> Word count mismatch! Manual text items: 5, MFA items: 1
+PERFECT: 6Zbx
+PERFECT: 6aAy
+RED FLAG: 6cTw -> Word count mismatch! Manual text items: 3, MFA items: 1
+PERFECT: 6cWh
+PERFECT: 6cuu
+PERFECT: 6lA4
+PERFECT: 6ous
+PERFECT: 6pJh
+RED FLAG: 6pM8 -> Manual transcription contains ONLY '#' markers.
+RED FLAG: 6pMp -> Word count mismatch! Manual text items: 2, MFA items: 1
+RED FLAG: 6ptZ -> Word count mismatch! Manual text items: 11, MFA items: 1
+PERFECT: 6rxE
+PERFECT: 6saw
+RED FLAG: 6uqM -> Word count mismatch! Manual text items: 7, MFA items: 1
+RED FLAG: 6uyO -> Word count mismatch! Manual text items: 3, MFA items: 1
+RED FLAG: 6wXN -> Word count mismatch! Manual text items: 4, MFA items: 1
+PERFECT: 6xDC
+PERFECT: 6zBJ
+RED FLAG: 71K0 -> Time difference > threshold at word 'DISBELIEVE' (Start Diff: 0.1645s, End Diff: 0.0218s)
+RED FLAG: 73Se -> Time difference > threshold at word 'SCREW' (Start Diff: 0.0492s, End Diff: 0.1444s)
+RED FLAG: 74LO -> Time difference > threshold at word 'BOUGH' (Start Diff: 0.0972s, End Diff: 0.2405s)
+PERFECT: 76Ev
+PERFECT: 79PV
+RED FLAG: 7F1k -> Word count mismatch! Manual text items: 3, MFA items: 1
+PERFECT: 7FOn
+RED FLAG: 7Ita -> Word count mismatch! Manual text items: 5, MFA items: 1
+PERFECT: 7OAq
+PERFECT: 7Rc5
+PERFECT: 7Vde
+RED FLAG: 7WKw -> Word count mismatch! Manual text items: 7, MFA items: 1
+PERFECT: 7aRS
+PERFECT: 7gZw
+RED FLAG: 7gg2 -> Word count mismatch! Manual text items: 2, MFA items: 1
+RED FLAG: 7hN3 -> Word count mismatch! Manual text items: 12, MFA items: 1
+RED FLAG: 7kYI -> Word count mismatch! Manual text items: 4, MFA items: 1
+PERFECT: 7mXR
+PERFECT: 7ndC
+RED FLAG: 7pdl -> Word count mismatch! Manual text items: 10, MFA items: 1
+RED FLAG: 7sCl -> Word count mismatch! Manual text items: 8, MFA items: 1
+PERFECT: 81vO
+PERFECT: 821e
+PERFECT: 83Y7
+PERFECT: 83lH
+RED FLAG: 86yH -> Time difference > threshold at word 'TIES' (Start Diff: 0.0204s, End Diff: 0.1408s)
+RED FLAG: 8EQE -> Word count mismatch! Manual text items: 1, MFA items: 4
+RED FLAG: 8UTa -> Word count mismatch! Manual text items: 2, MFA items: 4
+RED FLAG: 8WHg -> Word count mismatch! Manual text items: 1, MFA items: 4
+RED FLAG: 8YAS -> Word count mismatch! Manual text items: 3, MFA items: 4
+RED FLAG: 8ZAs -> Word count mismatch! Manual text items: 1, MFA items: 4
+PERFECT: 8agL
+RED FLAG: 8gR1 -> Word count mismatch! Manual text items: 23, MFA items: 4
+RED FLAG: 8h1R -> Word count mismatch! Manual text items: 1, MFA items: 4
+RED FLAG: 8kJG -> Word count mismatch! Manual text items: 1, MFA items: 4
+RED FLAG: 8szw -> Word count mismatch! Manual text items: 1, MFA items: 4
+RED FLAG: 8wZv -> Manual transcription contains ONLY '#' markers.
+PERFECT: 91cZ
+RED FLAG: 93Zh -> Word count mismatch! Manual text items: 5, MFA items: 8
+RED FLAG: 96Jw -> Time difference > threshold at word 'SQUARE' (Start Diff: 0.0147s, End Diff: 0.1706s)
+PERFECT: 97ME
+PERFECT: 9AnG
+RED FLAG: 9Bv0 -> Word count mismatch! Manual text items: 5, MFA items: 7
+RED FLAG: 9DSQ -> Word count mismatch! Manual text items: 1, MFA items: 7
+RED FLAG: 9EKo -> Word count mismatch! Manual text items: 1, MFA items: 7
+RED FLAG: 9Ge8 -> Word count mismatch! Manual text items: 2, MFA items: 7
+RED FLAG: 9Gw4 -> Word count mismatch! Manual text items: 1, MFA items: 7
+RED FLAG: 9Ifn -> Word count mismatch! Manual text items: 1, MFA items: 7
+RED FLAG: 9Jdl -> Word count mismatch! Manual text items: 1, MFA items: 7
+RED FLAG: 9KDT -> Word count mismatch! Manual text items: 1, MFA items: 7
+RED FLAG: 9LwX -> Word count mismatch! Manual text items: 1, MFA items: 7
+RED FLAG: 9MH3 -> Word count mismatch! Manual text items: 4, MFA items: 7
+RED FLAG: 9Q7J -> Word count mismatch! Manual text items: 1, MFA items: 7
+RED FLAG: 9Sam -> Word count mismatch! Manual text items: 1, MFA items: 7
+RED FLAG: 9Tya -> Word count mismatch! Manual text items: 13, MFA items: 7
+RED FLAG: 9UkD -> Word count mismatch! Manual text items: 6, MFA items: 7
+RED FLAG: 9V6m -> Word count mismatch! Manual text items: 1, MFA items: 7
+RED FLAG: 9XSd -> Word count mismatch! Manual text items: 2, MFA items: 7
+RED FLAG: 9ZVb -> Manual transcription contains ONLY '#' markers.
+RED FLAG: 9aTS -> Word count mismatch! Manual text items: 2, MFA items: 7
+RED FLAG: 9bbj -> Word count mismatch! Manual text items: 1, MFA items: 7
+RED FLAG: 9gYx -> Word count mismatch! Manual text items: 1, MFA items: 7
+PERFECT: 9hWP
+PERFECT: 9pqN
+RED FLAG: 9rkG -> Word count mismatch! Manual text items: 1, MFA items: 7
+RED FLAG: 9uIV -> Word count mismatch! Manual text items: 1, MFA items: 7
+RED FLAG: 9vde -> Word count mismatch! Manual text items: 1, MFA items: 7
+RED FLAG: 9xEP -> Word count mismatch! Manual text items: 1, MFA items: 7
+RED FLAG: A0hV -> Word count mismatch! Manual text items: 5, MFA items: 1
+RED FLAG: A2LK -> Word count mismatch! Manual text items: 12, MFA items: 1
+PERFECT: A3cg
+RED FLAG: A79T -> Word count mismatch! Manual text items: 2, MFA items: 1
+RED FLAG: A7uB -> Word count mismatch! Manual text items: 6, MFA items: 1
+RED FLAG: A8pq -> Word count mismatch! Manual text items: 1, MFA items: 4
+RED FLAG: AA5K -> Word count mismatch! Manual text items: 7, MFA items: 1
+PERFECT: AB6c
+RED FLAG: ABFk -> Time difference > threshold at word 'ROVE' (Start Diff: 0.0293s, End Diff: 0.1470s)
+PERFECT: ACTa
+RED FLAG: ACYP -> Time difference > threshold at word 'OVER' (Start Diff: 0.0438s, End Diff: 0.1485s)
+RED FLAG: AD4p -> Word count mismatch! Manual text items: 2, MFA items: 1
+PERFECT: ADKY
+PERFECT: ADYr
+PERFECT: AEfI
+PERFECT: AHPD
+PERFECT: ANOh
+PERFECT: AQmD
+PERFECT: ARiC
+PERFECT: ASvt
+PERFECT: ATuq
+PERFECT: AUEH
+PERFECT: AV12
+PERFECT: AWaf
+PERFECT: AYIS
+RED FLAG: AcLI -> Word count mismatch! Manual text items: 4, MFA items: 7
+PERFECT: AdPd
+PERFECT: AeLJ
+RED FLAG: AeeJ -> Manual transcription contains ONLY '#' markers.
+PERFECT: Afvo
+PERFECT: AgaW
+PERFECT: Aic7
+PERFECT: AkHN
+PERFECT: AmTD
+PERFECT: AnWg
+PERFECT: AoBx
+RED FLAG: AohA -> Word count mismatch! Manual text items: 6, MFA items: 12
+PERFECT: ApSy
+RED FLAG: AuEM -> Time difference > threshold at word 'WIT' (Start Diff: 0.0283s, End Diff: 0.2340s)
+RED FLAG: Aw1c -> Word count mismatch! Manual text items: 6, MFA items: 1
+PERFECT: AyGV
+PERFECT: B16I
+PERFECT: B1mL
+PERFECT: B7Rs
+RED FLAG: B93e -> Word count mismatch! Manual text items: 1, MFA items: 8
+RED FLAG: BClw -> Time difference > threshold at word 'QUITE' (Start Diff: 0.1412s, End Diff: 0.0263s)
+PERFECT: BIpu
+RED FLAG: BKDx -> Manual transcription contains ONLY '#' markers.
+RED FLAG: BMO0 -> Word count mismatch! Manual text items: 3, MFA items: 1
+RED FLAG: BOWK -> Time difference > threshold at word 'FAITH' (Start Diff: 0.0090s, End Diff: 0.2470s)
+PERFECT: BQSN
+PERFECT: BThR
+PERFECT: BTyS
+RED FLAG: BUsO -> Time difference > threshold at word 'HALF' (Start Diff: 0.0084s, End Diff: 0.5043s)
+RED FLAG: BWM4 -> Word count mismatch! Manual text items: 10, MFA items: 1
+RED FLAG: BXNj -> Time difference > threshold at word 'HER' (Start Diff: 0.2278s, End Diff: 0.3974s)
+RED FLAG: Bc14 -> Word count mismatch! Manual text items: 1, MFA items: 6
+RED FLAG: BgCI -> Time difference > threshold at word 'DOING' (Start Diff: 0.0187s, End Diff: 0.1532s)
+PERFECT: Bhge
+PERFECT: BjBi
+PERFECT: BpkT
+PERFECT: Bqed
+PERFECT: BrIM
+PERFECT: Bu6E
+RED FLAG: Bwly -> Word count mismatch! Manual text items: 8, MFA items: 9
+PERFECT: C06X
+PERFECT: C5MN
+RED FLAG: C5h1 -> Word count mismatch! Manual text items: 2, MFA items: 1
+PERFECT: C6ZZ
+RED FLAG: C8jU -> Word count mismatch! Manual text items: 1, MFA items: 4
+RED FLAG: CDTk -> Time difference > threshold at word 'PLAYS' (Start Diff: 0.0199s, End Diff: 0.1320s)
+PERFECT: CEXr
+RED FLAG: CIOY -> Time difference > threshold at word 'BARN' (Start Diff: 0.0100s, End Diff: 0.1552s)
+PERFECT: CIyc
+PERFECT: CK4L
+PERFECT: CLrt
+RED FLAG: CTlh -> Time difference > threshold at word 'ARM' (Start Diff: 0.1929s, End Diff: 0.1361s)
+PERFECT: CTqc
+PERFECT: CXPA
+PERFECT: CeZS
+PERFECT: CfDL
+PERFECT: Cfe0
+PERFECT: CgDD
+RED FLAG: ChY8 -> Word count mismatch! Manual text items: 1, MFA items: 4
+PERFECT: Cj3i
+PERFECT: CkjY
+PERFECT: ClmA
+RED FLAG: Cmtv -> Time difference > threshold at word 'CERTAINLY' (Start Diff: 0.0952s, End Diff: 0.1317s)
+PERFECT: CnmK
+PERFECT: Ctnd
+PERFECT: Ctpx
+RED FLAG: Cu0r -> Word count mismatch! Manual text items: 7, MFA items: 1
+PERFECT: CzWS
+RED FLAG: D1e2 -> Word count mismatch! Manual text items: 5, MFA items: 1
+RED FLAG: D1lO -> Word count mismatch! Manual text items: 6, MFA items: 1
+RED FLAG: D23w -> Word count mismatch! Manual text items: 4, MFA items: 9
+PERFECT: D4Gy
+RED FLAG: D4Qf -> Word count mismatch! Manual text items: 2, MFA items: 1
+PERFECT: D5vO
+RED FLAG: D9ZU -> Word count mismatch! Manual text items: 1, MFA items: 7
+PERFECT: DCmK
+RED FLAG: DEou -> Word count mismatch! Manual text items: 6, MFA items: 9
+PERFECT: DGra
+PERFECT: DHBH
+RED FLAG: DILC -> Manual transcription contains ONLY '#' markers.
+RED FLAG: DJqp -> Time difference > threshold at word 'YOU' (Start Diff: 0.0167s, End Diff: 0.1426s)
+PERFECT: DMyS
+RED FLAG: DOzQ -> Time difference > threshold at word 'IT' (Start Diff: 0.0732s, End Diff: 0.5035s)
+PERFECT: DYuY
+RED FLAG: Dcwr -> Time difference > threshold at word 'RIDE' (Start Diff: 0.1491s, End Diff: 0.0072s)
+PERFECT: DewL
+RED FLAG: DlEs -> Word count mismatch! Manual text items: 6, MFA items: 7
+RED FLAG: Dpwr -> Time difference > threshold at word 'KNIT' (Start Diff: 0.2417s, End Diff: 0.0741s)
+PERFECT: DsHD
+PERFECT: DsWi
+RED FLAG: Dw3o -> Word count mismatch! Manual text items: 4, MFA items: 1
+PERFECT: Dwir
+PERFECT: DxmP
+PERFECT: E27v
+PERFECT: E5i0
+PERFECT: E6xR
+RED FLAG: E9CH -> Word count mismatch! Manual text items: 1, MFA items: 7
+PERFECT: EC5E
+PERFECT: ECWf
+PERFECT: EDSd
+PERFECT: EI0d
+RED FLAG: EIwY -> Time difference > threshold at word 'EARTHY' (Start Diff: 0.0109s, End Diff: 0.1424s)
+PERFECT: EKCJ
+PERFECT: EL4Z
+RED FLAG: EOEw -> Time difference > threshold at word 'WRETCH' (Start Diff: 0.0482s, End Diff: 0.1497s)
+PERFECT: EXT5
+PERFECT: EYcT
+RED FLAG: EZqY -> Time difference > threshold at word 'WATCH' (Start Diff: 0.0522s, End Diff: 0.1510s)
+RED FLAG: EbyP -> Time difference > threshold at word 'DOWN' (Start Diff: 0.1679s, End Diff: 0.1374s)
+PERFECT: Efo5
+PERFECT: Eiww
+RED FLAG: En2v -> Word count mismatch! Manual text items: 2, MFA items: 1
+PERFECT: EtfQ
+PERFECT: EtiV
+RED FLAG: ExoN -> Time difference > threshold at word 'WAD' (Start Diff: 0.0677s, End Diff: 0.1466s)
+PERFECT: F3FG
+PERFECT: F3Jp
+RED FLAG: F3em -> Word count mismatch! Manual text items: 4, MFA items: 1
+RED FLAG: F9X0 -> Word count mismatch! Manual text items: 1, MFA items: 7
+PERFECT: FAp3
+PERFECT: FEtZ
+RED FLAG: FF6d -> Word count mismatch! Manual text items: 9, MFA items: 1
+PERFECT: FJOY
+PERFECT: FPIB
+PERFECT: FQI7
+PERFECT: FT7u
+PERFECT: FTAc
+PERFECT: FW40
+PERFECT: FWo0
+PERFECT: FaAZ
+PERFECT: FbNj
+PERFECT: Fexj
+RED FLAG: Fg9Y -> Word count mismatch! Manual text items: 1, MFA items: 7
+PERFECT: Fgs5
+PERFECT: FhsJ
+RED FLAG: Fjhh -> Time difference > threshold at word 'RIDGE' (Start Diff: 0.0106s, End Diff: 0.1373s)
+PERFECT: FlFk
+PERFECT: FoWn
+PERFECT: Fwul
+PERFECT: Fyfj
+RED FLAG: G1Eg -> Word count mismatch! Manual text items: 7, MFA items: 1
+RED FLAG: G1yZ -> Word count mismatch! Manual text items: 3, MFA items: 1
+RED FLAG: G2gH -> Word count mismatch! Manual text items: 8, MFA items: 1
+PERFECT: G5jn
+PERFECT: G7jP
+RED FLAG: G7pg -> Word count mismatch! Manual text items: 7, MFA items: 1
+RED FLAG: G8g0 -> Word count mismatch! Manual text items: 11, MFA items: 4
+PERFECT: GBCk
+PERFECT: GBlE
+PERFECT: GBzj
+PERFECT: GE6f
+PERFECT: GE7H
+RED FLAG: GELq -> Time difference > threshold at word 'GLASS' (Start Diff: 0.0501s, End Diff: 0.2310s)
+PERFECT: GIwC
+RED FLAG: GNz6 -> Word count mismatch! Manual text items: 12, MFA items: 1
+PERFECT: GRzw
+RED FLAG: GUsc -> Time difference > threshold at word 'THE' (Start Diff: 0.0393s, End Diff: 0.1370s)
+RED FLAG: Gd1X -> Word count mismatch! Manual text items: 6, MFA items: 1
+PERFECT: Ggwa
+PERFECT: GhDB
+RED FLAG: Gkou -> Time difference > threshold at word 'MARKET' (Start Diff: 0.0219s, End Diff: 0.2159s)
+RED FLAG: Gngl -> Time difference > threshold at word 'QUALIFICATION' (Start Diff: 0.0735s, End Diff: 0.1513s)
+PERFECT: GpU3
+RED FLAG: Gw5D -> Word count mismatch! Manual text items: 3, MFA items: 1
+PERFECT: GzHD
+RED FLAG: H5Ua -> Word count mismatch! Manual text items: 3, MFA items: 1
+RED FLAG: H9Cr -> Word count mismatch! Manual text items: 1, MFA items: 7
+RED FLAG: H9dj -> Word count mismatch! Manual text items: 1, MFA items: 7
+RED FLAG: HAWR -> Time difference > threshold at word 'CHANNEL' (Start Diff: 0.0856s, End Diff: 0.1373s)
+PERFECT: HCBn
+RED FLAG: HDC1 -> Word count mismatch! Manual text items: 11, MFA items: 1
+PERFECT: HFkr
+RED FLAG: HHxZ -> Time difference > threshold at word 'BET' (Start Diff: 0.0208s, End Diff: 0.1610s)
+RED FLAG: HOs3 -> Word count mismatch! Manual text items: 5, MFA items: 1
+PERFECT: HPJy
+RED FLAG: HQS9 -> Word count mismatch! Manual text items: 1, MFA items: 7
+PERFECT: HSV6
+PERFECT: HUOu
+PERFECT: HV4i
+RED FLAG: HXPt -> Time difference > threshold at word 'THEM' (Start Diff: 0.0543s, End Diff: 0.1454s)
+PERFECT: HZj6
+PERFECT: HeYQ
+PERFECT: Hh6v
+RED FLAG: HhRX -> Time difference > threshold at word 'ADVENTURE' (Start Diff: 0.0245s, End Diff: 0.1486s)
+PERFECT: HqkS
+PERFECT: Hrex
+PERFECT: Hrig
+RED FLAG: HuYt -> Word count mismatch! Manual text items: 6, MFA items: 11
+PERFECT: HzSo
+PERFECT: I3MF
+PERFECT: I5TD
+PERFECT: I76N
+PERFECT: I7Vu
+PERFECT: I7iJ
+PERFECT: I7im
+PERFECT: I7xq
+PERFECT: IAZw
+PERFECT: IBL4
+PERFECT: IBLQ
+PERFECT: IBoK
+RED FLAG: IDAc -> Time difference > threshold at word 'LOADING' (Start Diff: 0.0178s, End Diff: 0.1660s)
+PERFECT: IMHN
+PERFECT: IOEz
+PERFECT: IOjP
+RED FLAG: ISwa -> Time difference > threshold at word 'CHIN' (Start Diff: 0.0284s, End Diff: 0.1980s)
+PERFECT: ITwg
+PERFECT: IXBH
+RED FLAG: IXn3 -> Word count mismatch! Manual text items: 4, MFA items: 1
+PERFECT: IYW7
+PERFECT: IZFO
+RED FLAG: IZrW -> Time difference > threshold at word 'LEAF' (Start Diff: 0.0020s, End Diff: 0.1388s)
+PERFECT: IcTc
+PERFECT: IdYd
+PERFECT: Idvr
+RED FLAG: IezD -> Time difference > threshold at word 'SEEING' (Start Diff: 0.1593s, End Diff: 0.1341s)
+PERFECT: ImFV
+PERFECT: InLO
+RED FLAG: Isxi -> Time difference > threshold at word 'SADNESS' (Start Diff: 0.0733s, End Diff: 0.1490s)
+RED FLAG: It2F -> Word count mismatch! Manual text items: 5, MFA items: 1
+PERFECT: Iu1m
+RED FLAG: J11B -> Word count mismatch! Manual text items: 11, MFA items: 3
+RED FLAG: J496 -> Word count mismatch! Manual text items: 3, MFA items: 4
+PERFECT: J5Qd
+RED FLAG: J8Yw -> Word count mismatch! Manual text items: 3, MFA items: 4
+PERFECT: JAVe
+RED FLAG: JDsP -> Time difference > threshold at word 'SNACK' (Start Diff: 0.1400s, End Diff: 0.0609s)
+PERFECT: JEl2
+PERFECT: JEob
+PERFECT: JGrP
+PERFECT: JHLY
+RED FLAG: JHOG -> Time difference > threshold at word 'GENTLE' (Start Diff: 0.0020s, End Diff: 0.1304s)
+RED FLAG: JIuf -> Word count mismatch! Manual text items: 9, MFA items: 10
+PERFECT: JLtt
+RED FLAG: JM3F -> Word count mismatch! Manual text items: 4, MFA items: 1
+RED FLAG: JO0Q -> Word count mismatch! Manual text items: 3, MFA items: 1
+PERFECT: JOPL
+PERFECT: JQ1X
+PERFECT: JQh5
+PERFECT: JR2e
+PERFECT: JUpS
+PERFECT: JXIy
+RED FLAG: JXhs -> Time difference > threshold at word 'PLAYED' (Start Diff: 0.0727s, End Diff: 0.1565s)
+PERFECT: JZGA
+PERFECT: JZGJ
+RED FLAG: Jgm9 -> Word count mismatch! Manual text items: 1, MFA items: 7
+RED FLAG: Jj70 -> Word count mismatch! Manual text items: 1, MFA items: 9
+RED FLAG: JjIR -> Manual transcription contains ONLY '#' markers.
+RED FLAG: JmgP -> Time difference > threshold at word 'HANDKERCHIEF' (Start Diff: 0.0550s, End Diff: 0.1636s)
+PERFECT: JnhJ
+PERFECT: Jox4
+RED FLAG: JpN5 -> Word count mismatch! Manual text items: 6, MFA items: 1
+RED FLAG: Jq3G -> Word count mismatch! Manual text items: 4, MFA items: 1
+PERFECT: JrMJ
+PERFECT: JuUL
+PERFECT: JzUd
+PERFECT: K0IN
+PERFECT: K0K3
+PERFECT: K4cb
+PERFECT: K7Nl
+RED FLAG: K8Id -> Word count mismatch! Manual text items: 1, MFA items: 4
+PERFECT: KAlE
+RED FLAG: KBfF -> Manual transcription contains ONLY '#' markers.
+PERFECT: KBxl
+PERFECT: KEt2
+PERFECT: KIVh
+PERFECT: KJpE
+PERFECT: KKHq
+PERFECT: KQED
+RED FLAG: KSFY -> Time difference > threshold at word 'NOT' (Start Diff: 0.0170s, End Diff: 0.1392s)
+PERFECT: KUiS
+PERFECT: KW0i
+RED FLAG: KWnr -> Time difference > threshold at word 'FISH' (Start Diff: 0.1388s, End Diff: 0.0248s)
+PERFECT: KYC3
+RED FLAG: KYJ9 -> Word count mismatch! Manual text items: 1, MFA items: 7
+PERFECT: KZCt
+PERFECT: Kbfj
+PERFECT: KfCU
+PERFECT: Ki2X
+PERFECT: KiiU
+PERFECT: KkeD
+PERFECT: KldM
+RED FLAG: Kmkt -> Time difference > threshold at word 'TOWER' (Start Diff: 0.0809s, End Diff: 0.1458s)
+RED FLAG: KnJN -> Time difference > threshold at word 'TRAIN' (Start Diff: 0.1403s, End Diff: 0.0414s)
+PERFECT: Kves
+PERFECT: KxGt
+PERFECT: L5RZ
+RED FLAG: L9AT -> Word count mismatch! Manual text items: 2, MFA items: 7
+RED FLAG: LIZ6 -> Word count mismatch! Manual text items: 10, MFA items: 1
+RED FLAG: LKHN -> Time difference > threshold at word 'GONE' (Start Diff: 0.1574s, End Diff: 0.0087s)
+RED FLAG: LP8B -> Word count mismatch! Manual text items: 1, MFA items: 4
+PERFECT: LPxH
+PERFECT: LQBQ
+PERFECT: LQhF
+PERFECT: LRxJ
+PERFECT: LV96
+RED FLAG: LW59 -> Word count mismatch! Manual text items: 12, MFA items: 1
+PERFECT: LWOP
+PERFECT: LZAk
+PERFECT: LZNI
+PERFECT: La4K
+RED FLAG: La8O -> Manual transcription contains ONLY '#' markers.
+PERFECT: LaYP
+PERFECT: LalI
+RED FLAG: Lau4 -> Word count mismatch! Manual text items: 3, MFA items: 1
+PERFECT: LaxI
+RED FLAG: LeMR -> Time difference > threshold at word 'HE' (Start Diff: 0.1867s, End Diff: 0.0748s)
+RED FLAG: Li45 -> Word count mismatch! Manual text items: 6, MFA items: 1
+PERFECT: LoBj
+PERFECT: Lp3u
+PERFECT: LrVH
+RED FLAG: LsKc -> Time difference > threshold at word 'PACK' (Start Diff: 0.0226s, End Diff: 0.1629s)
+PERFECT: Ltt2
+RED FLAG: Luyz -> Manual transcription contains ONLY '#' markers.
+PERFECT: LvUW
+PERFECT: Ly6k
+RED FLAG: M58L -> Word count mismatch! Manual text items: 1, MFA items: 6
+PERFECT: M5vs
+PERFECT: M7MA
+RED FLAG: M9SW -> Word count mismatch! Manual text items: 9, MFA items: 7
+PERFECT: MDA3
+PERFECT: MDUQ
+PERFECT: MGXu
+RED FLAG: MHgy -> Word count mismatch! Manual text items: 7, MFA items: 8
+RED FLAG: MJFA -> Time difference > threshold at word 'WIN' (Start Diff: 0.0541s, End Diff: 0.1700s)
+RED FLAG: ML0j -> Word count mismatch! Manual text items: 6, MFA items: 1
+RED FLAG: MN4q -> Word count mismatch! Manual text items: 6, MFA items: 1
+PERFECT: MNuz
+PERFECT: MOU5
+RED FLAG: MU9j -> Word count mismatch! Manual text items: 5, MFA items: 7
+PERFECT: MVOp
+PERFECT: MZLF
+PERFECT: MazI
+PERFECT: Md6R
+RED FLAG: MehL -> Time difference > threshold at word 'HE' (Start Diff: 0.1515s, End Diff: 0.1211s)
+PERFECT: MevH
+PERFECT: Mgvr
+PERFECT: MoGH
+PERFECT: Moeb
+PERFECT: MpSu
+PERFECT: MqPH
+RED FLAG: Mrds -> Time difference > threshold at word 'TEND' (Start Diff: 0.1592s, End Diff: 0.0366s)
+PERFECT: MxaS
+RED FLAG: MxiO -> Time difference > threshold at word 'WORMS' (Start Diff: 0.0067s, End Diff: 0.2120s)
+PERFECT: N2ue
+PERFECT: N6zI
+PERFECT: N827
+PERFECT: NBLw
+PERFECT: NFBA
+RED FLAG: NGvz -> Time difference > threshold at word 'FIX' (Start Diff: 0.0708s, End Diff: 0.1307s)
+PERFECT: NIuj
+PERFECT: NSoY
+PERFECT: NWJZ
+PERFECT: Nbf4
+PERFECT: NekE
+PERFECT: Nfas
+RED FLAG: NfgQ -> Manual transcription contains ONLY '#' markers.
+PERFECT: Nkim
+PERFECT: Nr7Y
+PERFECT: NrIS
+RED FLAG: Nz3F -> Word count mismatch! Manual text items: 9, MFA items: 1
+PERFECT: O2PZ
+PERFECT: O4TV
+PERFECT: O66y
+RED FLAG: O8W6 -> Word count mismatch! Manual text items: 1, MFA items: 4
+PERFECT: OBux
+RED FLAG: OFZf -> Word count mismatch! Manual text items: 1, MFA items: 2
+RED FLAG: OHwT -> Time difference > threshold at word 'BREATHE' (Start Diff: 0.0256s, End Diff: 0.1385s)
+PERFECT: OI0p
+PERFECT: OJW6
+PERFECT: OKT2
+PERFECT: OKsQ
+PERFECT: OMTJ
+PERFECT: OPBj
+RED FLAG: OSMY -> Time difference > threshold at word 'PHONED' (Start Diff: 0.1382s, End Diff: 0.0211s)
+PERFECT: OWNc
+PERFECT: OZUm
+RED FLAG: Oa4O -> Word count mismatch! Manual text items: 8, MFA items: 1
+PERFECT: Obl5
+RED FLAG: OcZh -> Time difference > threshold at word 'COTTAGE' (Start Diff: 0.0135s, End Diff: 0.1624s)
+RED FLAG: Od7G -> Word count mismatch! Manual text items: 6, MFA items: 1
+PERFECT: Ofpj
+RED FLAG: OgzW -> Manual transcription contains ONLY '#' markers.
+RED FLAG: OkU8 -> Word count mismatch! Manual text items: 2, MFA items: 4
+RED FLAG: Onlz -> Word count mismatch! Manual text items: 19, MFA items: 20
+RED FLAG: OoTX -> Time difference > threshold at word 'AGE' (Start Diff: 0.0077s, End Diff: 0.1374s)
+RED FLAG: Oq8A -> Word count mismatch! Manual text items: 1, MFA items: 4
+RED FLAG: Osa2 -> Word count mismatch! Manual text items: 11, MFA items: 1
+RED FLAG: OtHB -> Time difference > threshold at word 'HAD' (Start Diff: 0.1802s, End Diff: 0.0629s)
+PERFECT: OvUF
+RED FLAG: Owee -> Time difference > threshold at word 'CONTRADICTION' (Start Diff: 0.0149s, End Diff: 0.1408s)
+PERFECT: P4jg
+PERFECT: P63r
+PERFECT: P6W9
+PERFECT: P85Z
+RED FLAG: P9eD -> Word count mismatch! Manual text items: 1, MFA items: 7
+PERFECT: PDdp
+PERFECT: PG3N
+PERFECT: PGvz
+PERFECT: PLhu
+RED FLAG: PPKy -> Time difference > threshold at word 'TELL' (Start Diff: 0.1380s, End Diff: 0.0838s)
+PERFECT: PQA4
+PERFECT: PQyC
+RED FLAG: PRhy -> Time difference > threshold at word 'SET' (Start Diff: 0.1335s, End Diff: 0.1293s)
+PERFECT: PSL4
+PERFECT: PXnr
+PERFECT: PdpA
+RED FLAG: PgnF -> Time difference > threshold at word 'RIDDANCE' (Start Diff: 0.0056s, End Diff: 0.1641s)
+PERFECT: PlCR
+PERFECT: Plt5
+PERFECT: Pnwv
+PERFECT: PoDP
+PERFECT: Prlw
+RED FLAG: Pv1z -> Word count mismatch! Manual text items: 6, MFA items: 1
+PERFECT: Pwue
+PERFECT: PwyQ
+PERFECT: Pxnn
+PERFECT: Py3e
+PERFECT: Pyla
+PERFECT: Q0e3
+PERFECT: Q2wR
+PERFECT: Q4Hy
+RED FLAG: Q6yb -> Word count mismatch! Manual text items: 5, MFA items: 1
+PERFECT: Q7pj
+RED FLAG: Q8U2 -> Word count mismatch! Manual text items: 1, MFA items: 4
+PERFECT: QFkt
+PERFECT: QGpw
+RED FLAG: QHi9 -> Word count mismatch! Manual text items: 1, MFA items: 7
+PERFECT: QLrD
+RED FLAG: QRB7 -> Word count mismatch! Manual text items: 8, MFA items: 1
+PERFECT: QSnR
+PERFECT: QU2O
+RED FLAG: QU9f -> Word count mismatch! Manual text items: 6, MFA items: 7
+PERFECT: QVu1
+PERFECT: QaoW
+PERFECT: QcpG
+PERFECT: QdOy
+PERFECT: QdQE
+PERFECT: QhAA
+PERFECT: QhWf
+RED FLAG: Qkqo -> Time difference > threshold at word 'RIOT' (Start Diff: 0.0289s, End Diff: 0.1646s)
+PERFECT: Qmvf
+PERFECT: QsW2
+PERFECT: QtYe
+PERFECT: Qx3Y
+PERFECT: QyBq
+RED FLAG: QyPp -> Time difference > threshold at word 'TRIPE' (Start Diff: 0.2604s, End Diff: 0.0403s)
+PERFECT: R4qO
+PERFECT: R6cR
+RED FLAG: RBe8 -> Word count mismatch! Manual text items: 1, MFA items: 4
+RED FLAG: RCud -> Time difference > threshold at word 'FROM' (Start Diff: 0.0126s, End Diff: 0.2307s)
+RED FLAG: RDOE -> Time difference > threshold at word 'YOU' (Start Diff: 0.2369s, End Diff: 0.0785s)
+RED FLAG: RFp9 -> Word count mismatch! Manual text items: 6, MFA items: 7
+RED FLAG: RJOm -> Time difference > threshold at word 'FETCH' (Start Diff: 0.0282s, End Diff: 0.1328s)
+PERFECT: RJmh
+PERFECT: RK64
+RED FLAG: RLDj -> Time difference > threshold at word 'BIN' (Start Diff: 0.0372s, End Diff: 0.1545s)
+PERFECT: RLFA
+PERFECT: RLVt
+PERFECT: RMhy
+PERFECT: RUK2
+PERFECT: RVV4
+PERFECT: RWJg
+PERFECT: RYOA
+PERFECT: RZ89
+PERFECT: RZiN
+PERFECT: RZq6
+PERFECT: Ra0e
+RED FLAG: Rfg8 -> Word count mismatch! Manual text items: 1, MFA items: 4
+RED FLAG: Rjcf -> Time difference > threshold at word 'BROTHER' (Start Diff: 0.0065s, End Diff: 0.1465s)
+PERFECT: RkF5
+RED FLAG: RnGf -> Time difference > threshold at word 'FILE' (Start Diff: 0.1121s, End Diff: 0.1313s)
+PERFECT: RnHu
+RED FLAG: RoRu -> Time difference > threshold at word 'SURF' (Start Diff: 0.0096s, End Diff: 0.1777s)
+PERFECT: RomU
+PERFECT: RqTP
+PERFECT: Rsyx
+PERFECT: Rtq3
+PERFECT: Ru97
+RED FLAG: Rv8r -> Word count mismatch! Manual text items: 3, MFA items: 4
+RED FLAG: RxhU -> Word count mismatch! Manual text items: 1, MFA items: 2
+PERFECT: RyXB
+RED FLAG: S27I -> Word count mismatch! Manual text items: 8, MFA items: 1
+PERFECT: S2Az
+PERFECT: S2d9
+PERFECT: S54d
+PERFECT: S7EL
+PERFECT: SBhU
+PERFECT: SFwj
+RED FLAG: SIcT -> Time difference > threshold at word 'MATTRESS' (Start Diff: 0.0051s, End Diff: 0.1336s)
+PERFECT: SPRC
+RED FLAG: SRoC -> Time difference > threshold at word 'CALF' (Start Diff: 0.0233s, End Diff: 0.1574s)
+RED FLAG: SaqU -> Time difference > threshold at word 'THINK' (Start Diff: 0.0710s, End Diff: 0.1357s)
+PERFECT: ShxP
+PERFECT: SjNQ
+PERFECT: Sopr
+RED FLAG: Spd8 -> Word count mismatch! Manual text items: 1, MFA items: 4
+PERFECT: Srdy
+PERFECT: Svks
+PERFECT: Svlj
+PERFECT: T19I
+RED FLAG: T4bt -> Word count mismatch! Manual text items: 8, MFA items: 1
+PERFECT: T6J3
+RED FLAG: TAJs -> Time difference > threshold at word 'HER' (Start Diff: 0.0293s, End Diff: 0.2584s)
+RED FLAG: TEcJ -> Time difference > threshold at word 'THING' (Start Diff: 0.0089s, End Diff: 0.1325s)
+PERFECT: TEhO
+PERFECT: TKr2
+RED FLAG: TMI6 -> Word count mismatch! Manual text items: 4, MFA items: 1
+PERFECT: TNxa
+PERFECT: TUY1
+PERFECT: TXGs
+PERFECT: TYXh
+RED FLAG: TaEh -> Word count mismatch! Manual text items: 1, MFA items: 2
+PERFECT: TahC
+RED FLAG: TbHn -> Time difference > threshold at word 'PIG' (Start Diff: 0.0074s, End Diff: 0.1862s)
+PERFECT: TbN7
+PERFECT: TcXj
+PERFECT: ThFC
+PERFECT: TiRP
+PERFECT: Tk4k
+PERFECT: TnIs
+RED FLAG: Toll -> Time difference > threshold at word 'PULL' (Start Diff: 0.0334s, End Diff: 0.1727s)
+RED FLAG: Tpz6 -> Word count mismatch! Manual text items: 4, MFA items: 1
+PERFECT: TqIw
+RED FLAG: TqNn -> Time difference > threshold at word 'RIDE' (Start Diff: 0.3165s, End Diff: 0.3008s)
+RED FLAG: TrC9 -> Word count mismatch! Manual text items: 2, MFA items: 7
+PERFECT: Trxo
+RED FLAG: Ts8d -> Word count mismatch! Manual text items: 1, MFA items: 4
+PERFECT: TsTS
+PERFECT: Tts4
+PERFECT: U5bM
+RED FLAG: U77I -> Time difference > threshold at word 'CITY' (Start Diff: 0.1444s, End Diff: 0.0812s)
+RED FLAG: U9un -> Word count mismatch! Manual text items: 9, MFA items: 7
+PERFECT: UBNz
+PERFECT: UIIc
+PERFECT: UIzH
+PERFECT: ULdA
+RED FLAG: UM9T -> Word count mismatch! Manual text items: 1, MFA items: 7
+PERFECT: UMRU
+PERFECT: USVq
+PERFECT: UWWK
+RED FLAG: UYr0 -> Word count mismatch! Manual text items: 4, MFA items: 1
+RED FLAG: Uf4a -> Word count mismatch! Manual text items: 9, MFA items: 1
+PERFECT: Uhsl
+RED FLAG: UpHj -> Word count mismatch! Manual text items: 2, MFA items: 5
+RED FLAG: UpVa -> Time difference > threshold at word 'ILL' (Start Diff: 0.0029s, End Diff: 0.2775s)
+RED FLAG: Uroq -> Word count mismatch! Manual text items: 11, MFA items: 12
+PERFECT: UrxF
+RED FLAG: V1Vd -> Word count mismatch! Manual text items: 7, MFA items: 1
+PERFECT: V4Fz
+PERFECT: VAwM
+PERFECT: VBcA
+PERFECT: VEAU
+PERFECT: VEfx
+PERFECT: VFoD
+PERFECT: VHrJ
+PERFECT: VIoH
+PERFECT: VJpW
+PERFECT: VNE0
+PERFECT: VNJV
+PERFECT: VOax
+PERFECT: VSc6
+RED FLAG: VTQ8 -> Word count mismatch! Manual text items: 8, MFA items: 4
+RED FLAG: VUJX -> Time difference > threshold at word 'HE' (Start Diff: 0.1357s, End Diff: 0.0538s)
+PERFECT: VXXA
+PERFECT: VY1T
+RED FLAG: VYxP -> Time difference > threshold at word 'SUCH' (Start Diff: 0.1393s, End Diff: 0.0393s)
+PERFECT: VcgU
+RED FLAG: VguC -> Time difference > threshold at word 'WRITTEN' (Start Diff: 0.0050s, End Diff: 0.1440s)
+PERFECT: VgyE
+PERFECT: Vi4B
+RED FLAG: Vkw3 -> Word count mismatch! Manual text items: 3, MFA items: 1
+PERFECT: VlGm
+PERFECT: Vmcw
+PERFECT: Vo0U
+RED FLAG: Vo25 -> Time difference > threshold at word 'TAILORED' (Start Diff: 0.0033s, End Diff: 0.1774s)
+PERFECT: Vour
+PERFECT: VpTQ
+RED FLAG: Vqju -> Time difference > threshold at word 'HORN' (Start Diff: 0.0080s, End Diff: 0.1382s)
+RED FLAG: Vqsg -> Time difference > threshold at word 'GOOD' (Start Diff: 0.0249s, End Diff: 0.2255s)
+PERFECT: VstY
+PERFECT: VwRx
+PERFECT: VxGv
+PERFECT: VxxP
+PERFECT: VyEZ
+RED FLAG: VzBk -> Time difference > threshold at word 'LAMB' (Start Diff: 0.0058s, End Diff: 0.1307s)
+PERFECT: W1Ag
+PERFECT: W1wf
+PERFECT: W4wl
+PERFECT: W4xv
+RED FLAG: W8S6 -> Word count mismatch! Manual text items: 3, MFA items: 4
+PERFECT: WDsU
+RED FLAG: WETA -> Time difference > threshold at word 'WHAT' (Start Diff: 0.2810s, End Diff: 0.3473s)
+PERFECT: WFSH
+RED FLAG: WKwe -> Word count mismatch! Manual text items: 1, MFA items: 2
+RED FLAG: WNs8 -> Word count mismatch! Manual text items: 6, MFA items: 4
+RED FLAG: WP51 -> Manual transcription contains ONLY '#' markers.
+PERFECT: WQBM
+PERFECT: WVRB
+PERFECT: WVXX
+RED FLAG: WXLE -> Manual transcription contains ONLY '#' markers.
+PERFECT: WXPG
+RED FLAG: WXo4 -> Word count mismatch! Manual text items: 12, MFA items: 1
+PERFECT: WaQT
+PERFECT: Wdib
+RED FLAG: Wfc2 -> Manual transcription contains ONLY '#' markers.
+PERFECT: WgNI
+PERFECT: WgvO
+PERFECT: WnEI
+RED FLAG: Wt3W -> Word count mismatch! Manual text items: 4, MFA items: 1
+PERFECT: Wtkz
+PERFECT: Wwuq
+RED FLAG: X07C -> Manual transcription contains ONLY '#' markers.
+RED FLAG: X8qL -> Word count mismatch! Manual text items: 1, MFA items: 4
+PERFECT: XJhR
+PERFECT: XM04
+RED FLAG: XNkH -> Time difference > threshold at word 'STUFFED' (Start Diff: 0.0566s, End Diff: 0.1384s)
+PERFECT: XQm3
+PERFECT: XWw3
+PERFECT: XXqJ
+RED FLAG: XYyh -> Time difference > threshold at word 'MATTER' (Start Diff: 0.0640s, End Diff: 0.2036s)
+PERFECT: XZli
+RED FLAG: Xb1D -> Word count mismatch! Manual text items: 2, MFA items: 1
+PERFECT: XbzD
+PERFECT: Xc4N
+PERFECT: XhNY
+PERFECT: Xq1J
+PERFECT: Xri3
+RED FLAG: XtgL -> Time difference > threshold at word 'HAD' (Start Diff: 0.0340s, End Diff: 0.1353s)
+RED FLAG: Xu4w -> Word count mismatch! Manual text items: 7, MFA items: 1
+PERFECT: Xxlb
+PERFECT: Y3Hh
+RED FLAG: Y7bD -> Word count mismatch! Manual text items: 3, MFA items: 1
+RED FLAG: Y8HE -> Word count mismatch! Manual text items: 2, MFA items: 4
+RED FLAG: YAjs -> Time difference > threshold at word 'FREE' (Start Diff: 0.0656s, End Diff: 0.1506s)
+PERFECT: YBao
+PERFECT: YH6q
+RED FLAG: YIFq -> Time difference > threshold at word 'SIDE' (Start Diff: 0.0484s, End Diff: 0.1851s)
+PERFECT: YLPG
+RED FLAG: YN8Z -> Word count mismatch! Manual text items: 9, MFA items: 4
+PERFECT: YQ3d
+PERFECT: YRcK
+RED FLAG: YTaX -> Time difference > threshold at word 'IF' (Start Diff: 0.0503s, End Diff: 0.1812s)
+PERFECT: YXiz
+RED FLAG: YaJz -> Time difference > threshold at word 'NIGHT' (Start Diff: 0.0632s, End Diff: 0.1378s)
+PERFECT: YaLl
+PERFECT: YhzB
+PERFECT: Yi0Z
+PERFECT: YkVw
+RED FLAG: Ykz8 -> Word count mismatch! Manual text items: 1, MFA items: 4
+PERFECT: YmGT
+PERFECT: YrSB
+RED FLAG: YrXQ -> Time difference > threshold at word 'CHRISTMAS' (Start Diff: 0.0332s, End Diff: 0.1501s)
+RED FLAG: YsTO -> Time difference > threshold at word 'LACKED' (Start Diff: 0.0016s, End Diff: 0.1387s)
+PERFECT: YskP
+PERFECT: YxBC
+RED FLAG: Yz2d -> Word count mismatch! Manual text items: 12, MFA items: 1
+PERFECT: Z4S5
+PERFECT: Z4pb
+RED FLAG: Z50L -> Word count mismatch! Manual text items: 5, MFA items: 1
+PERFECT: Z7iw
+PERFECT: Z83E
+PERFECT: ZAbt
+PERFECT: ZFRb
+PERFECT: ZHKp
+PERFECT: ZLGg
+PERFECT: ZLeY
+PERFECT: ZLfa
+RED FLAG: ZPL9 -> Manual transcription contains ONLY '#' markers.
+PERFECT: ZTbz
+PERFECT: Zbsc
+RED FLAG: Zc70 -> Word count mismatch! Manual text items: 1, MFA items: 9
+PERFECT: Zhmx
+PERFECT: ZhnP
+RED FLAG: ZjDQ -> Time difference > threshold at word 'EAT' (Start Diff: 0.0634s, End Diff: 0.1994s)
+RED FLAG: Zk9s -> Word count mismatch! Manual text items: 14, MFA items: 7
+RED FLAG: Zr2C -> Word count mismatch! Manual text items: 9, MFA items: 1
+PERFECT: Zu5b
+PERFECT: ZuN0
+PERFECT: ZuuG
+PERFECT: ZwfS
+PERFECT: Zxp4
+PERFECT: ZztA
+RED FLAG: a0n6 -> Word count mismatch! Manual text items: 5, MFA items: 1
+PERFECT: a3V4
+RED FLAG: a50Z -> Time difference > threshold at word 'SINK' (Start Diff: 0.1419s, End Diff: 0.0950s)
+RED FLAG: a641 -> Word count mismatch! Manual text items: 1, MFA items: 3
+PERFECT: aCAt
+RED FLAG: aCL8 -> Word count mismatch! Manual text items: 1, MFA items: 4
+PERFECT: aCgn
+RED FLAG: aDVe -> Time difference > threshold at word 'FEAR' (Start Diff: 0.1436s, End Diff: 0.0078s)
+PERFECT: aFl4
+PERFECT: aHUi
+PERFECT: aIfy
+PERFECT: aKUn
+PERFECT: aMUF
+RED FLAG: aNX9 -> Word count mismatch! Manual text items: 6, MFA items: 7
+RED FLAG: aNi8 -> Word count mismatch! Manual text items: 1, MFA items: 4
+PERFECT: aNyK
+PERFECT: aSuF
+RED FLAG: aTi4 -> Word count mismatch! Manual text items: 8, MFA items: 1
+RED FLAG: aVan -> Time difference > threshold at word 'CARD' (Start Diff: 0.0142s, End Diff: 0.1674s)
+PERFECT: aWGz
+RED FLAG: ac9U -> Word count mismatch! Manual text items: 1, MFA items: 7
+RED FLAG: ad1j -> Word count mismatch! Manual text items: 2, MFA items: 1
+PERFECT: ad3E
+PERFECT: afAC
+PERFECT: afa1
+PERFECT: aivC
+PERFECT: ajPn
+RED FLAG: akA6 -> Word count mismatch! Manual text items: 7, MFA items: 1
+PERFECT: alRH
+PERFECT: alb7
+RED FLAG: ap7U -> Word count mismatch! Manual text items: 4, MFA items: 1
+RED FLAG: apV7 -> Word count mismatch! Manual text items: 5, MFA items: 1
+PERFECT: arJ7
+PERFECT: at4F
+PERFECT: atID
+RED FLAG: atzP -> Manual transcription contains ONLY '#' markers.
+RED FLAG: ax5M -> Word count mismatch! Manual text items: 2, MFA items: 1
+RED FLAG: axRp -> Word count mismatch! Manual text items: 10, MFA items: 9
+PERFECT: azqE
+RED FLAG: b1fU -> Word count mismatch! Manual text items: 7, MFA items: 1
+PERFECT: b2BS
+RED FLAG: b2sS -> Word count mismatch! Manual text items: 4, MFA items: 1
+PERFECT: b4fP
+PERFECT: bBB2
+PERFECT: bDwv
+PERFECT: bEl7
+PERFECT: bGH1
+PERFECT: bGlQ
+RED FLAG: bK39 -> Word count mismatch! Manual text items: 4, MFA items: 1
+RED FLAG: bLLC -> Time difference > threshold at word 'BREEDING' (Start Diff: 0.0246s, End Diff: 0.1440s)
+PERFECT: bMDq
+RED FLAG: bNS4 -> Manual transcription contains ONLY '#' markers.
+PERFECT: bNtH
+PERFECT: bRQu
+RED FLAG: bRUM -> Time difference > threshold at word 'CUP' (Start Diff: 0.0096s, End Diff: 0.1318s)
+PERFECT: bRXE
+PERFECT: bYcb
+PERFECT: bajs
+PERFECT: bgSY
+PERFECT: bhSh
+PERFECT: biB2
+PERFECT: bjTj
+RED FLAG: bk9T -> Word count mismatch! Manual text items: 1, MFA items: 7
+RED FLAG: bmp9 -> Word count mismatch! Manual text items: 6, MFA items: 7
+RED FLAG: bndo -> Manual transcription contains ONLY '#' markers.
+PERFECT: bxc8
+RED FLAG: c0DZ -> Word count mismatch! Manual text items: 3, MFA items: 1
+PERFECT: c0Xe
+PERFECT: c1KV
+PERFECT: c2vu
+PERFECT: c7CF
+RED FLAG: c8XW -> Word count mismatch! Manual text items: 1, MFA items: 4
+RED FLAG: c9j2 -> Word count mismatch! Manual text items: 1, MFA items: 7
+PERFECT: cFdO
+PERFECT: cFfu
+PERFECT: cGWy
+PERFECT: cGrX
+PERFECT: cI2V
+PERFECT: cIQB
+RED FLAG: cJeW -> Time difference > threshold at word 'HEARD' (Start Diff: 0.0181s, End Diff: 0.1600s)
+PERFECT: cKRL
+PERFECT: cNO7
+PERFECT: cOZf
+PERFECT: cOir
+PERFECT: cTFh
+PERFECT: cWtY
+PERFECT: ceQw
+RED FLAG: cmCF -> Time difference > threshold at word 'BUS' (Start Diff: 0.0605s, End Diff: 0.1426s)
+PERFECT: coBW
+PERFECT: cpYR
+PERFECT: cqTM
+RED FLAG: cuR1 -> Word count mismatch! Manual text items: 4, MFA items: 1
+PERFECT: cuyb
+RED FLAG: cvg6 -> Word count mismatch! Manual text items: 4, MFA items: 1
+RED FLAG: d8JA -> Word count mismatch! Manual text items: 6, MFA items: 4
+PERFECT: dAHv
+PERFECT: dD0X
+RED FLAG: dD4i -> Word count mismatch! Manual text items: 5, MFA items: 1
+RED FLAG: dFg9 -> Word count mismatch! Manual text items: 1, MFA items: 7
+PERFECT: dJPO
+RED FLAG: dNG8 -> Word count mismatch! Manual text items: 1, MFA items: 4
+PERFECT: dPFY
+PERFECT: dQgT
+PERFECT: dQoA
+PERFECT: dYuC
+RED FLAG: dbqf -> Time difference > threshold at word 'COUNTRY' (Start Diff: 0.0293s, End Diff: 0.1819s)
+PERFECT: dcHg
+PERFECT: ddGO
+PERFECT: degQ
+RED FLAG: dezE -> Word count mismatch! Manual text items: 8, MFA items: 9
+RED FLAG: dfEc -> Time difference > threshold at word 'BROAD' (Start Diff: 0.0146s, End Diff: 0.1465s)
+PERFECT: dffc
+RED FLAG: dggo -> Word count mismatch! Manual text items: 1, MFA items: 2
+PERFECT: dkXQ
+RED FLAG: dm6w -> Word count mismatch! Manual text items: 2, MFA items: 1
+PERFECT: do2X
+PERFECT: doS1
+PERFECT: dpKp
+PERFECT: dpsz
+RED FLAG: dt3J -> Word count mismatch! Manual text items: 7, MFA items: 1
+RED FLAG: dtmf -> Word count mismatch! Manual text items: 25, MFA items: 26
+RED FLAG: dv8m -> Word count mismatch! Manual text items: 2, MFA items: 4
+PERFECT: dvcY
+PERFECT: dxZC
+PERFECT: dynm
+PERFECT: dzcd
+PERFECT: dzef
+RED FLAG: e58n -> Time difference > threshold at word 'OWNS' (Start Diff: 0.1056s, End Diff: 0.2347s)
+PERFECT: e5CB
+RED FLAG: e7B7 -> Word count mismatch! Manual text items: 4, MFA items: 1
+RED FLAG: e9E7 -> Word count mismatch! Manual text items: 1, MFA items: 7
+RED FLAG: e9N4 -> Word count mismatch! Manual text items: 1, MFA items: 7
+RED FLAG: e9yU -> Word count mismatch! Manual text items: 1, MFA items: 7
+RED FLAG: eDr6 -> Word count mismatch! Manual text items: 8, MFA items: 1
+RED FLAG: eFFD -> Time difference > threshold at word 'AWFUL' (Start Diff: 0.0260s, End Diff: 0.2176s)
+RED FLAG: eI4D -> Word count mismatch! Manual text items: 3, MFA items: 1
+PERFECT: eMKS
+PERFECT: eMhf
+PERFECT: eMiM
+RED FLAG: eNEJ -> Time difference > threshold at word 'TOUGH' (Start Diff: 0.0167s, End Diff: 0.1493s)
+RED FLAG: eOnT -> Time difference > threshold at word 'REWARD' (Start Diff: 0.0308s, End Diff: 0.1921s)
+RED FLAG: eP55 -> Time difference > threshold at word 'WRETCH' (Start Diff: 0.0482s, End Diff: 0.1435s)
+RED FLAG: eRXa -> Time difference > threshold at word 'CHEW' (Start Diff: 0.0451s, End Diff: 0.1982s)
+PERFECT: eWcE
+PERFECT: eWop
+PERFECT: eXGg
+PERFECT: eYSi
+RED FLAG: eYZ0 -> Word count mismatch! Manual text items: 2, MFA items: 1
+RED FLAG: eZaX -> Word count mismatch! Manual text items: 4, MFA items: 5
+RED FLAG: easa -> Time difference > threshold at word 'THESE' (Start Diff: 0.0104s, End Diff: 0.1493s)
+RED FLAG: eekZ -> Time difference > threshold at word 'HAD' (Start Diff: 0.0728s, End Diff: 0.1963s)
+PERFECT: ejh0
+PERFECT: ek06
+PERFECT: ekea
+RED FLAG: em2Y -> Word count mismatch! Manual text items: 10, MFA items: 1
+PERFECT: emR7
+PERFECT: emhb
+PERFECT: esiM
+PERFECT: euip
+RED FLAG: ewJ6 -> Word count mismatch! Manual text items: 3, MFA items: 1
+RED FLAG: ewOf -> Time difference > threshold at word 'HIMSELF' (Start Diff: 0.0864s, End Diff: 0.1797s)
+RED FLAG: f0Kg -> Word count mismatch! Manual text items: 9, MFA items: 1
+PERFECT: f1PA
+PERFECT: f2mC
+PERFECT: f3PW
+PERFECT: f3Y7
+RED FLAG: f3rq -> Word count mismatch! Manual text items: 8, MFA items: 1
+RED FLAG: f8km -> Word count mismatch! Manual text items: 1, MFA items: 4
+PERFECT: fALU
+PERFECT: fE1k
+RED FLAG: fEm3 -> Word count mismatch! Manual text items: 2, MFA items: 1
+PERFECT: fGV5
+RED FLAG: fMw7 -> Word count mismatch! Manual text items: 2, MFA items: 1
+PERFECT: fULi
+PERFECT: fUMa
+PERFECT: fW2t
+PERFECT: fWBY
+PERFECT: fZ3z
+PERFECT: fZi4
+RED FLAG: fa3D -> Word count mismatch! Manual text items: 2, MFA items: 1
+PERFECT: faH0
+PERFECT: fbNO
+RED FLAG: fdJ8 -> Word count mismatch! Manual text items: 8, MFA items: 4
+RED FLAG: fewp -> Time difference > threshold at word 'YOU' (Start Diff: 0.0242s, End Diff: 0.2064s)
+PERFECT: fexI
+RED FLAG: fhCe -> Time difference > threshold at word 'FOLLOW' (Start Diff: 0.1431s, End Diff: 0.0021s)
+PERFECT: fma1
+PERFECT: ftf0
+PERFECT: fuzF
+RED FLAG: fwUv -> Manual transcription contains ONLY '#' markers.
+PERFECT: g2kQ
+PERFECT: g5yu
+PERFECT: g7Ch
+PERFECT: gBi5
+RED FLAG: gC5G -> Word count mismatch! Manual text items: 8, MFA items: 1
+PERFECT: gF3d
+PERFECT: gG5M
+RED FLAG: gK70 -> Time difference > threshold at word 'IT' (Start Diff: 0.0197s, End Diff: 0.1664s)
+PERFECT: gKkV
+PERFECT: gKsz
+PERFECT: gLkp
+RED FLAG: gQ3g -> Word count mismatch! Manual text items: 5, MFA items: 1
+PERFECT: gQf2
+RED FLAG: gRXS -> Time difference > threshold at word 'DOTE' (Start Diff: 0.0424s, End Diff: 0.1708s)
+PERFECT: gTxG
+RED FLAG: gUME -> Time difference > threshold at word 'THE' (Start Diff: 0.0097s, End Diff: 0.1511s)
+RED FLAG: gZA7 -> Word count mismatch! Manual text items: 5, MFA items: 1
+RED FLAG: gb9o -> Word count mismatch! Manual text items: 6, MFA items: 7
+RED FLAG: gbFb -> Time difference > threshold at word 'SEND' (Start Diff: 0.1638s, End Diff: 0.0768s)
+PERFECT: gdlA
+RED FLAG: gdrU -> Time difference > threshold at word 'RIM' (Start Diff: 0.0423s, End Diff: 0.1697s)
+PERFECT: gfOw
+RED FLAG: gmqd -> Time difference > threshold at word 'SANE' (Start Diff: 0.0053s, End Diff: 0.1735s)
+PERFECT: gqXb
+PERFECT: gulx
+PERFECT: gze5
+RED FLAG: gzjW -> Time difference > threshold at word 'PERFECT' (Start Diff: 0.0324s, End Diff: 0.1432s)
+PERFECT: h2HR
+PERFECT: h5MO
+PERFECT: h6pt
+PERFECT: h8Cy
+RED FLAG: h8O0 -> Word count mismatch! Manual text items: 2, MFA items: 4
+PERFECT: hAlP
+PERFECT: hApY
+PERFECT: hEgJ
+PERFECT: hG0V
+PERFECT: hI7I
+RED FLAG: hKbp -> Time difference > threshold at word 'RIDER' (Start Diff: 0.0043s, End Diff: 0.1346s)
+PERFECT: hLyy
+RED FLAG: hTPL -> Word count mismatch! Manual text items: 8, MFA items: 11
+RED FLAG: hVKY -> Time difference > threshold at word 'FUNNY' (Start Diff: 0.1451s, End Diff: 0.0023s)
+PERFECT: hX68
+PERFECT: haXY
+PERFECT: hbGF
+PERFECT: hfEe
+PERFECT: hfX0
+RED FLAG: hjIh -> Time difference > threshold at word 'ENGLAND' (Start Diff: 0.0000s, End Diff: 0.1391s)
+RED FLAG: hkCz -> Time difference > threshold at word 'VARY' (Start Diff: 0.0317s, End Diff: 0.1492s)
+PERFECT: hkwr
+PERFECT: hppY
+PERFECT: hr7V
+PERFECT: hrgU
+PERFECT: htCv
+RED FLAG: htEm -> Word count mismatch! Manual text items: 5, MFA items: 10
+RED FLAG: htk9 -> Word count mismatch! Manual text items: 1, MFA items: 7
+PERFECT: hwqw
+PERFECT: hxSs
+PERFECT: i0Sm
+PERFECT: i3Op
+RED FLAG: iBwU -> Time difference > threshold at word 'US' (Start Diff: 0.0586s, End Diff: 0.2120s)
+RED FLAG: iEpK -> Time difference > threshold at word 'HAPPY' (Start Diff: 0.0217s, End Diff: 0.1436s)
+PERFECT: iHFw
+PERFECT: iNrK
+PERFECT: iQ6G
+RED FLAG: iQ8T -> Word count mismatch! Manual text items: 3, MFA items: 4
+PERFECT: iRAa
+PERFECT: iTf4
+PERFECT: iWn5
+PERFECT: iYGj
+PERFECT: iYjd
+PERFECT: iYjz
+PERFECT: icoA
+PERFECT: idLV
+RED FLAG: ihuM -> Time difference > threshold at word 'BEAK' (Start Diff: 0.1001s, End Diff: 0.1515s)
+PERFECT: ijrY
+PERFECT: ilYL
+PERFECT: ilz7
+RED FLAG: iop8 -> Word count mismatch! Manual text items: 1, MFA items: 4
+PERFECT: itEG
+PERFECT: iwOh
+PERFECT: iy5q
+PERFECT: j5Fo
+RED FLAG: j5Hm -> Word count mismatch! Manual text items: 8, MFA items: 1
+PERFECT: j67E
+PERFECT: j6hH
+RED FLAG: j8kZ -> Word count mismatch! Manual text items: 1, MFA items: 4
+PERFECT: jBXV
+RED FLAG: jDaW -> Time difference > threshold at word 'I' (Start Diff: 0.0521s, End Diff: 0.2034s)
+PERFECT: jEZQ
+PERFECT: jFBH
+PERFECT: jHMR
+RED FLAG: jHzv -> Time difference > threshold at word 'WHILE' (Start Diff: 0.2460s, End Diff: 0.0267s)
+PERFECT: jLUs
+PERFECT: jM6i
+PERFECT: jMEe
+PERFECT: jMbk
+PERFECT: jOy5
+PERFECT: jQQU
+RED FLAG: jRFu -> Time difference > threshold at word 'HABIT' (Start Diff: 0.0358s, End Diff: 0.1320s)
+RED FLAG: jSV9 -> Word count mismatch! Manual text items: 1, MFA items: 7
+PERFECT: jTwY
+PERFECT: jUHQ
+PERFECT: jVMG
+PERFECT: jX1w
+PERFECT: jX2j
+RED FLAG: jY9i -> Word count mismatch! Manual text items: 3, MFA items: 7
+PERFECT: jcUI
+RED FLAG: jdLJ -> Time difference > threshold at word 'LATHE' (Start Diff: 0.0135s, End Diff: 0.1403s)
+PERFECT: jdsQ
+PERFECT: jgct
+PERFECT: jqUy
+PERFECT: jqn7
+PERFECT: jsb7
+PERFECT: jslY
+PERFECT: jtpL
+RED FLAG: k5H4 -> Word count mismatch! Manual text items: 2, MFA items: 1
+PERFECT: k7C7
+PERFECT: kBJJ
+RED FLAG: kFV2 -> Word count mismatch! Manual text items: 7, MFA items: 1
+PERFECT: kHdw
+PERFECT: kJKs
+RED FLAG: kK5A -> Word count mismatch! Manual text items: 5, MFA items: 1
+PERFECT: kLXX
+PERFECT: kMvr
+RED FLAG: kP9C -> Word count mismatch! Manual text items: 1, MFA items: 7
+RED FLAG: kQHl -> Time difference > threshold at word 'LUCK' (Start Diff: 0.0178s, End Diff: 0.1416s)
+PERFECT: kRAb
+PERFECT: kRil
+RED FLAG: kY6E -> Manual transcription contains ONLY '#' markers.
+PERFECT: kZNe
+RED FLAG: kcC1 -> Word count mismatch! Manual text items: 4, MFA items: 1
+PERFECT: korW
+RED FLAG: kpKL -> Time difference > threshold at word 'DIGGING' (Start Diff: 0.1353s, End Diff: 0.0608s)
+RED FLAG: kskQ -> Time difference > threshold at word 'IT' (Start Diff: 0.0151s, End Diff: 0.2380s)
+PERFECT: kslg
+PERFECT: ktFp
+RED FLAG: kwXR -> Time difference > threshold at word 'SEND' (Start Diff: 0.1393s, End Diff: 0.0852s)
+PERFECT: kwzi
+PERFECT: kxu0
+RED FLAG: l3Ct -> Word count mismatch! Manual text items: 4, MFA items: 1
+RED FLAG: l3Sa -> Word count mismatch! Manual text items: 4, MFA items: 1
+PERFECT: l5ZZ
+RED FLAG: l8cK -> Word count mismatch! Manual text items: 1, MFA items: 4
+RED FLAG: l8eu -> Word count mismatch! Manual text items: 1, MFA items: 4
+PERFECT: lC7n
+RED FLAG: lIB7 -> Word count mismatch! Manual text items: 6, MFA items: 1
+PERFECT: lJz4
+PERFECT: lKND
+PERFECT: lMXD
+PERFECT: lQpl
+RED FLAG: lc6Y -> Word count mismatch! Manual text items: 8, MFA items: 1
+PERFECT: lgBz
+RED FLAG: lgLs -> Time difference > threshold at word 'DINNERS' (Start Diff: 0.0860s, End Diff: 0.1400s)
+RED FLAG: lgxQ -> Time difference > threshold at word 'TUNE' (Start Diff: 0.0156s, End Diff: 0.2162s)
+PERFECT: lhHu
+PERFECT: lkI1
+PERFECT: lnfV
+PERFECT: lpE6
+PERFECT: lqQN
+PERFECT: lqU1
+RED FLAG: luGO -> Time difference > threshold at word 'ORANGES' (Start Diff: 0.0173s, End Diff: 0.1580s)
+PERFECT: lviL
+PERFECT: m4lh
+PERFECT: m9x5
+RED FLAG: m9xw -> Word count mismatch! Manual text items: 1, MFA items: 7
+PERFECT: mBij
+PERFECT: mCE1
+PERFECT: mClc
+RED FLAG: mOfP -> Time difference > threshold at word 'HIS' (Start Diff: 0.0288s, End Diff: 0.2347s)
+RED FLAG: mPGt -> Time difference > threshold at word 'GOOD' (Start Diff: 0.0910s, End Diff: 0.1599s)
+RED FLAG: mVY8 -> Word count mismatch! Manual text items: 6, MFA items: 4
+PERFECT: mVao
+PERFECT: mYO5
+PERFECT: mbHB
+RED FLAG: mcPl -> Manual transcription contains ONLY '#' markers.
+RED FLAG: mdrV -> Time difference > threshold at word 'PRETTY' (Start Diff: 0.0675s, End Diff: 0.1354s)
+PERFECT: mfGR
+RED FLAG: miL4 -> Word count mismatch! Manual text items: 8, MFA items: 1
+PERFECT: mqfu
+PERFECT: ms7Z
+PERFECT: mudS
+RED FLAG: mwMG -> Time difference > threshold at word 'HONE' (Start Diff: 0.1054s, End Diff: 0.1692s)
+PERFECT: n0kd
+PERFECT: n0qr
+PERFECT: n394
+PERFECT: n4Au
+PERFECT: n5pf
+PERFECT: n6Fu
+RED FLAG: n8ko -> Word count mismatch! Manual text items: 1, MFA items: 4
+PERFECT: nAGX
+RED FLAG: nISt -> Time difference > threshold at word 'MAINTAIN' (Start Diff: 0.0055s, End Diff: 0.1933s)
+PERFECT: nLCz
+PERFECT: nMpC
+RED FLAG: nO8P -> Word count mismatch! Manual text items: 1, MFA items: 4
+PERFECT: nQBx
+RED FLAG: nQH9 -> Word count mismatch! Manual text items: 1, MFA items: 7
+PERFECT: nQQw
+PERFECT: nQaU
+RED FLAG: nR8v -> Word count mismatch! Manual text items: 1, MFA items: 4
+RED FLAG: nXSy -> Manual transcription contains ONLY '#' markers.
+PERFECT: nXxr
+RED FLAG: nc3g -> Word count mismatch! Manual text items: 2, MFA items: 1
+RED FLAG: ndv8 -> Word count mismatch! Manual text items: 1, MFA items: 4
+PERFECT: ng08
+PERFECT: nlBN
+PERFECT: nlUX
+PERFECT: nnpb
+PERFECT: non1
+PERFECT: npsy
+PERFECT: ntyz
+PERFECT: nwYl
+PERFECT: nxkB
+RED FLAG: nyZk -> Time difference > threshold at word 'GIN' (Start Diff: 0.0837s, End Diff: 0.1467s)
+PERFECT: o0gk
+PERFECT: o29w
+RED FLAG: o2aQ -> Word count mismatch! Manual text items: 16, MFA items: 1
+RED FLAG: o67h -> Word count mismatch! Manual text items: 7, MFA items: 10
+RED FLAG: o78d -> Time difference > threshold at word 'GOOD' (Start Diff: 0.0329s, End Diff: 0.1346s)
+PERFECT: o7Pq
+PERFECT: oCtu
+RED FLAG: oGgr -> Time difference > threshold at word 'BUYER' (Start Diff: 0.0075s, End Diff: 0.1538s)
+RED FLAG: oHj8 -> Word count mismatch! Manual text items: 1, MFA items: 4
+RED FLAG: oJ8P -> Word count mismatch! Manual text items: 1, MFA items: 4
+RED FLAG: oOrz -> Time difference > threshold at word 'SKEWED' (Start Diff: 0.0516s, End Diff: 0.1423s)
+PERFECT: oSN4
+RED FLAG: oSod -> Manual transcription contains ONLY '#' markers.
+RED FLAG: oWei -> Time difference > threshold at word 'CATCHING' (Start Diff: 0.0728s, End Diff: 0.2505s)
+PERFECT: oYpn
+PERFECT: obQX
+RED FLAG: od0c -> Word count mismatch! Manual text items: 4, MFA items: 1
+PERFECT: oenN
+PERFECT: ohNG
+RED FLAG: olyo -> Time difference > threshold at word 'LIP' (Start Diff: 0.0254s, End Diff: 0.2119s)
+RED FLAG: om1X -> Word count mismatch! Manual text items: 3, MFA items: 1
+RED FLAG: omf8 -> Word count mismatch! Manual text items: 1, MFA items: 4
+PERFECT: otxy
+RED FLAG: p17o -> Word count mismatch! Manual text items: 2, MFA items: 5
+PERFECT: p1CC
+PERFECT: p7z7
+PERFECT: p87j
+RED FLAG: p9hZ -> Word count mismatch! Manual text items: 11, MFA items: 7
+PERFECT: pBMh
+RED FLAG: pBNv -> Word count mismatch! Manual text items: 10, MFA items: 11
+PERFECT: pBxg
+PERFECT: pBzj
+PERFECT: pEvz
+PERFECT: pH55
+RED FLAG: pJBC -> Time difference > threshold at word 'GOODS' (Start Diff: 0.0464s, End Diff: 0.1680s)
+PERFECT: pK0h
+RED FLAG: pLb9 -> Word count mismatch! Manual text items: 24, MFA items: 7
+PERFECT: pMIP
+PERFECT: pMZn
+PERFECT: pOKF
+PERFECT: pQoV
+RED FLAG: pRWf -> Word count mismatch! Manual text items: 2, MFA items: 7
+RED FLAG: pU4G -> Word count mismatch! Manual text items: 2, MFA items: 1
+RED FLAG: pVUY -> Time difference > threshold at word 'CRICKET' (Start Diff: 0.1065s, End Diff: 0.2053s)
+RED FLAG: pXfg -> Time difference > threshold at word 'GARDENS' (Start Diff: 0.0206s, End Diff: 0.1498s)
+PERFECT: paxm
+RED FLAG: paxu -> Time difference > threshold at word 'SEND' (Start Diff: 0.1448s, End Diff: 0.0192s)
+RED FLAG: pd1p -> Word count mismatch! Manual text items: 10, MFA items: 1
+PERFECT: peXo
+PERFECT: pfbp
+RED FLAG: phI8 -> Word count mismatch! Manual text items: 1, MFA items: 4
+RED FLAG: pkhh -> Time difference > threshold at word 'OFF' (Start Diff: 0.0208s, End Diff: 0.1456s)
+PERFECT: po0T
+RED FLAG: poG0 -> Word count mismatch! Manual text items: 5, MFA items: 1
+PERFECT: psO2
+RED FLAG: q2RV -> Word count mismatch! Manual text items: 2, MFA items: 1
+RED FLAG: q48z -> Time difference > threshold at word 'BADGES' (Start Diff: 0.0019s, End Diff: 0.1352s)
+RED FLAG: q6FK -> Word count mismatch! Manual text items: 4, MFA items: 1
+PERFECT: q6fH
+PERFECT: q7Q9
+PERFECT: q89g
+RED FLAG: qAhQ -> Time difference > threshold at word 'SUCKS' (Start Diff: 0.0497s, End Diff: 0.1454s)
+PERFECT: qB0n
+PERFECT: qCeh
+RED FLAG: qJ24 -> Word count mismatch! Manual text items: 1, MFA items: 4
+RED FLAG: qLkH -> Time difference > threshold at word 'PUSH' (Start Diff: 0.1527s, End Diff: 0.0467s)
+RED FLAG: qSg7 -> Word count mismatch! Manual text items: 5, MFA items: 1
+RED FLAG: qV2P -> Word count mismatch! Manual text items: 4, MFA items: 1
+RED FLAG: qWTM -> Time difference > threshold at word 'SPLENDID' (Start Diff: 0.1140s, End Diff: 0.1397s)
+RED FLAG: qbKG -> Time difference > threshold at word 'MINE' (Start Diff: 0.0088s, End Diff: 0.1490s)
+PERFECT: qcNB
+PERFECT: qhlJ
+RED FLAG: qo9T -> Word count mismatch! Manual text items: 3, MFA items: 7
+RED FLAG: qoPF -> Word count mismatch! Manual text items: 4, MFA items: 10
+PERFECT: qoRf
+PERFECT: qrCQ
+PERFECT: qsaS
+PERFECT: qurd
+RED FLAG: qv9U -> Word count mismatch! Manual text items: 1, MFA items: 7
+RED FLAG: qwf9 -> Word count mismatch! Manual text items: 1, MFA items: 7
+PERFECT: qxbL
+RED FLAG: qxlv -> Word count mismatch! Manual text items: 2, MFA items: 5
+PERFECT: qyLB
+PERFECT: r6hg
+RED FLAG: r9vI -> Word count mismatch! Manual text items: 1, MFA items: 7
+PERFECT: rB2c
+PERFECT: rBPw
+RED FLAG: rBre -> Time difference > threshold at word 'HAD' (Start Diff: 0.1908s, End Diff: 0.0056s)
+PERFECT: rFG1
+PERFECT: rMPu
+PERFECT: rTAA
+RED FLAG: rV1T -> Word count mismatch! Manual text items: 6, MFA items: 1
+RED FLAG: rVCs -> Time difference > threshold at word 'FINLAND' (Start Diff: 0.1162s, End Diff: 0.1726s)
+PERFECT: rWhU
+RED FLAG: rYrW -> Time difference > threshold at word 'BUY' (Start Diff: 0.0385s, End Diff: 0.2061s)
+RED FLAG: rYzY -> Time difference > threshold at word 'CHIP' (Start Diff: 0.0205s, End Diff: 0.2004s)
+PERFECT: rapb
+PERFECT: rawK
+PERFECT: rbjY
+PERFECT: rcNi
+PERFECT: rdx4
+PERFECT: rebc
+RED FLAG: rjjq -> Time difference > threshold at word 'AND' (Start Diff: 0.0116s, End Diff: 0.1439s)
+PERFECT: rkbP
+PERFECT: rlG1
+PERFECT: rpqa
+RED FLAG: rrou -> Time difference > threshold at word 'SLIP' (Start Diff: 0.0954s, End Diff: 0.1609s)
+RED FLAG: rsjX -> Time difference > threshold at word 'FOUND' (Start Diff: 0.1395s, End Diff: 0.0914s)
+RED FLAG: rt8n -> Word count mismatch! Manual text items: 1, MFA items: 4
+PERFECT: rtuw
+PERFECT: rvW5
+PERFECT: rvjZ
+PERFECT: rwus
+PERFECT: rxEp
+PERFECT: ryFy
+PERFECT: ryI6
+PERFECT: s0j3
+PERFECT: s31Z
+PERFECT: s3Nl
+PERFECT: s4i4
+PERFECT: s7mO
+RED FLAG: s97o -> Word count mismatch! Manual text items: 9, MFA items: 1
+PERFECT: sC4H
+PERFECT: sE7N
+PERFECT: sEPT
+RED FLAG: sIeF -> Time difference > threshold at word 'HOSE' (Start Diff: 0.0065s, End Diff: 0.1545s)
+RED FLAG: sN7u -> Word count mismatch! Manual text items: 8, MFA items: 1
+PERFECT: sOaL
+RED FLAG: sWQB -> Time difference > threshold at word 'DID' (Start Diff: 0.0280s, End Diff: 0.1880s)
+RED FLAG: sYBo -> Time difference > threshold at word 'YOURS' (Start Diff: 0.0285s, End Diff: 0.1556s)
+PERFECT: sa4M
+PERFECT: saQ3
+PERFECT: sc2O
+PERFECT: sgVy
+PERFECT: siID
+PERFECT: sjBj
+RED FLAG: skKT -> Time difference > threshold at word 'HERE' (Start Diff: 0.0666s, End Diff: 0.1309s)
+PERFECT: snUo
+PERFECT: soXN
+RED FLAG: t0CD -> Word count mismatch! Manual text items: 11, MFA items: 1
+PERFECT: t0j1
+RED FLAG: t1O3 -> Word count mismatch! Manual text items: 7, MFA items: 1
+PERFECT: t1ou
+PERFECT: t3tn
+RED FLAG: t5bi -> Word count mismatch! Manual text items: 5, MFA items: 1
+PERFECT: t7so
+RED FLAG: tEHd -> Time difference > threshold at word 'ROOF' (Start Diff: 0.0650s, End Diff: 0.1936s)
+PERFECT: tEhc
+PERFECT: tGfP
+PERFECT: tGwQ
+PERFECT: tH55
+RED FLAG: tHBY -> Time difference > threshold at word 'PLEASE' (Start Diff: 0.0721s, End Diff: 0.1553s)
+RED FLAG: tHd8 -> Word count mismatch! Manual text items: 7, MFA items: 4
+PERFECT: tOT0
+PERFECT: tTQ2
+PERFECT: tTwx
+PERFECT: tUwE
+PERFECT: tW0Q
+RED FLAG: tX2J -> Word count mismatch! Manual text items: 6, MFA items: 1
+RED FLAG: ta8D -> Word count mismatch! Manual text items: 7, MFA items: 4
+RED FLAG: ta9c -> Word count mismatch! Manual text items: 6, MFA items: 7
+PERFECT: tano
+PERFECT: tdbC
+PERFECT: tgRS
+PERFECT: thOg
+PERFECT: tid3
+PERFECT: tkYa
+RED FLAG: tlb3 -> Word count mismatch! Manual text items: 2, MFA items: 1
+PERFECT: tlin
+RED FLAG: tmvF -> Time difference > threshold at word 'WRITHE' (Start Diff: 0.0133s, End Diff: 0.1392s)
+PERFECT: tqNe
+PERFECT: triz
+PERFECT: trkO
+PERFECT: ttxl
+PERFECT: tuhv
+RED FLAG: tvz0 -> Word count mismatch! Manual text items: 2, MFA items: 1
+PERFECT: txoG
+RED FLAG: txpB -> Time difference > threshold at word 'LOOSE' (Start Diff: 0.0020s, End Diff: 0.1346s)
+PERFECT: tyak
+PERFECT: tzQr
+PERFECT: tzYH
+PERFECT: u0o5
+RED FLAG: u2Fs -> Word count mismatch! Manual text items: 6, MFA items: 1
+PERFECT: u35z
+RED FLAG: u4NW -> Word count mismatch! Manual text items: 2, MFA items: 1
+PERFECT: u52h
+RED FLAG: u7Vz -> Word count mismatch! Manual text items: 6, MFA items: 1
+RED FLAG: u9d8 -> Word count mismatch! Manual text items: 1, MFA items: 7
+PERFECT: uB5c
+RED FLAG: uC8h -> Word count mismatch! Manual text items: 1, MFA items: 4
+PERFECT: uCPw
+RED FLAG: uLZ8 -> Word count mismatch! Manual text items: 1, MFA items: 4
+PERFECT: uN2p
+PERFECT: uOUj
+PERFECT: uPbn
+RED FLAG: uQUW -> Time difference > threshold at word 'STARED' (Start Diff: 0.0177s, End Diff: 0.1753s)
+PERFECT: uVri
+PERFECT: uXCG
+RED FLAG: uXs9 -> Word count mismatch! Manual text items: 1, MFA items: 7
+RED FLAG: uc8R -> Word count mismatch! Manual text items: 6, MFA items: 4
+PERFECT: uf6C
+RED FLAG: ukBr -> Time difference > threshold at word 'SEND' (Start Diff: 0.1607s, End Diff: 0.0200s)
+PERFECT: us3G
+PERFECT: ut0M
+RED FLAG: v05S -> Time difference > threshold at word 'FLOOR' (Start Diff: 0.1454s, End Diff: 0.0297s)
+PERFECT: v6F1
+PERFECT: v6U9
+PERFECT: v863
+PERFECT: v982
+PERFECT: vAC0
+PERFECT: vCOr
+PERFECT: vDzW
+PERFECT: vKSW
+PERFECT: vNtL
+PERFECT: vPL2
+RED FLAG: vZGR -> Time difference > threshold at word 'JOHN' (Start Diff: 0.0371s, End Diff: 0.2160s)
+RED FLAG: vb7P -> Word count mismatch! Manual text items: 2, MFA items: 1
+PERFECT: vbSc
+RED FLAG: vf3x -> Word count mismatch! Manual text items: 9, MFA items: 1
+RED FLAG: vgBG -> Word count mismatch! Manual text items: 5, MFA items: 6
+PERFECT: vhwd
+PERFECT: viB4
+PERFECT: vmjd
+PERFECT: vogJ
+RED FLAG: vqMk -> Time difference > threshold at word 'SIR' (Start Diff: 0.1341s, End Diff: 0.0172s)
+PERFECT: vqsI
+PERFECT: vqzK
+PERFECT: vvKG
+PERFECT: vvMa
+PERFECT: vwYA
+RED FLAG: vxCn -> Manual transcription contains ONLY '#' markers.
+RED FLAG: vy8l -> Word count mismatch! Manual text items: 1, MFA items: 4
+PERFECT: w4Ra
+PERFECT: wFV0
+RED FLAG: wIhm -> Manual transcription contains ONLY '#' markers.
+PERFECT: wYHs
+PERFECT: wecb
+RED FLAG: whX7 -> Word count mismatch! Manual text items: 8, MFA items: 1
+PERFECT: wnL7
+PERFECT: wnnG
+PERFECT: wpAw
+PERFECT: wpTb
+RED FLAG: wpa6 -> Word count mismatch! Manual text items: 3, MFA items: 1
+PERFECT: wy0C
+RED FLAG: wyzT -> Time difference > threshold at word 'IS' (Start Diff: 0.0445s, End Diff: 0.2058s)
+RED FLAG: x2pU -> Word count mismatch! Manual text items: 9, MFA items: 1
+PERFECT: x3bE
+PERFECT: x4NO
+PERFECT: x4Yc
+RED FLAG: x8Vu -> Word count mismatch! Manual text items: 5, MFA items: 4
+RED FLAG: x8oY -> Manual transcription contains ONLY '#' markers.
+PERFECT: xAUo
+PERFECT: xB46
+PERFECT: xDEy
+PERFECT: xEYN
+PERFECT: xFgh
+PERFECT: xFj0
+RED FLAG: xGBj -> Time difference > threshold at word 'MORNING' (Start Diff: 0.0730s, End Diff: 0.1443s)
+PERFECT: xGFe
+PERFECT: xGIx
+PERFECT: xGLb
+PERFECT: xLNU
+PERFECT: xQ5M
+RED FLAG: xSpF -> Time difference > threshold at word 'WITH' (Start Diff: 0.0769s, End Diff: 0.1310s)
+PERFECT: xbyr
+PERFECT: xkLV
+PERFECT: xmbo
+RED FLAG: xmuN -> Time difference > threshold at word 'LEDGE' (Start Diff: 0.0009s, End Diff: 0.1342s)
+RED FLAG: xnT2 -> Word count mismatch! Manual text items: 2, MFA items: 1
+PERFECT: xoPT
+RED FLAG: xoSr -> Time difference > threshold at word 'SPOT' (Start Diff: 0.1974s, End Diff: 0.0363s)
+RED FLAG: xqoC -> Time difference > threshold at word 'ALLOW' (Start Diff: 0.0007s, End Diff: 0.1604s)
+PERFECT: xrRg
+PERFECT: xvVB
+PERFECT: xveN
+PERFECT: xwBc
+PERFECT: y0nF
+PERFECT: y2gP
+PERFECT: y30h
+PERFECT: y3p8
+RED FLAG: y6lS -> Word count mismatch! Manual text items: 2, MFA items: 1
+RED FLAG: y8v3 -> Manual transcription contains ONLY '#' markers.
+PERFECT: yA4X
+RED FLAG: yBXV -> Word count mismatch! Manual text items: 8, MFA items: 9
+PERFECT: yDlz
+RED FLAG: yKh8 -> Word count mismatch! Manual text items: 12, MFA items: 4
+PERFECT: yNUP
+PERFECT: yOjj
+PERFECT: yOs6
+PERFECT: yPNX
+PERFECT: yPb3
+RED FLAG: yRXz -> Time difference > threshold at word 'POND' (Start Diff: 0.1315s, End Diff: 0.0544s)
+PERFECT: yUWA
+PERFECT: yV1w
+RED FLAG: yY8W -> Word count mismatch! Manual text items: 5, MFA items: 4
+PERFECT: yYTG
+PERFECT: ycju
+PERFECT: ycvk
+RED FLAG: ydKu -> Time difference > threshold at word 'SUN' (Start Diff: 0.1321s, End Diff: 0.0486s)
+PERFECT: yhLv
+PERFECT: yhh2
+RED FLAG: yj4e -> Word count mismatch! Manual text items: 6, MFA items: 1
+RED FLAG: ykaa -> Time difference > threshold at word 'THOUGH' (Start Diff: 0.0850s, End Diff: 0.1362s)
+RED FLAG: ylMW -> Time difference > threshold at word 'OPPOSITE' (Start Diff: 0.1354s, End Diff: 0.0122s)
+PERFECT: ylsI
+PERFECT: ynJo
+RED FLAG: ypiB -> Time difference > threshold at word 'SORT' (Start Diff: 0.0382s, End Diff: 0.1310s)
+RED FLAG: yr65 -> Time difference > threshold at word 'VILE' (Start Diff: 0.0002s, End Diff: 0.1929s)
+RED FLAG: yryR -> Time difference > threshold at word 'SHE' (Start Diff: 0.1395s, End Diff: 0.0955s)
+PERFECT: yv7E
+PERFECT: yyLM
+PERFECT: yzUB
+PERFECT: yzr6
+RED FLAG: z1ae -> Word count mismatch! Manual text items: 3, MFA items: 1
+PERFECT: z26c
+RED FLAG: z5WX -> Word count mismatch! Manual text items: 17, MFA items: 1
+PERFECT: z7bd
+RED FLAG: z8QW -> Word count mismatch! Manual text items: 1, MFA items: 4
+RED FLAG: zByl -> Manual transcription contains ONLY '#' markers.
+PERFECT: zF7D
+PERFECT: zHE3
+PERFECT: zLTh
+PERFECT: zO2C
+RED FLAG: zVeM -> Time difference > threshold at word 'RIP' (Start Diff: 0.1379s, End Diff: 0.0636s)
+RED FLAG: zXH0 -> Word count mismatch! Manual text items: 8, MFA items: 1
+PERFECT: zZG2
+PERFECT: zbVj
+PERFECT: zbi3
+PERFECT: zc5v
+RED FLAG: zcmB -> Time difference > threshold at word 'STUPID' (Start Diff: 0.0359s, End Diff: 0.2092s)
+PERFECT: zeZt
+PERFECT: zfea
+PERFECT: zfgS
+PERFECT: ziTi
+PERFECT: zmNS
+PERFECT: zmOR
+PERFECT: zvPi
+PERFECT: zx0t
+PERFECT: zyix
+PERFECT: zzNp
